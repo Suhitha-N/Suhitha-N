@@ -1,4 +1,4 @@
-# profilegenerator
+
 # 💫 About Me:
 Hi 👋, I'm Suhitha Natakam<br><br>🎓 Computer Science Engineering Student<br><br>📊 Aspiring Data Analyst | 💻 Web Developer | 🤖 AI Enthusiast<br><br>🌱 Currently learning Data Analytics, Power BI, SQL, React.js, and Artificial Intelligence<br><br>🚀 Passionate about turning data into insights and ideas into impactful solutions.
 
