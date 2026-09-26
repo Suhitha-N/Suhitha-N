@@ -2,7 +2,7 @@
 
 ### Computer Science Engineer | Software Developer | Data & AI
 
-I build practical software solutions with **Python, Java, React, FastAPI, SQL, and AI**.
+Passionate about building practical **applications and websites** that solve real-world problems.
 
 Interested in **Software Development, Data Analytics, and AI-powered applications**.
 
